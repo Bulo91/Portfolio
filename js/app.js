@@ -39,8 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
     contactForm.addEventListener('submit', function(e) {
         e.preventDefault(); // Empêche le formulaire de s'envoyer normalement
 
-        // Vous pouvez ajouter ici le code pour envoyer le formulaire (par exemple, via AJAX)
-        // En attendant, vous pouvez afficher un message de confirmation ou effectuer d'autres actions
+        
         alert('Formulaire soumis avec succès!');
     });
 });
