@@ -423,7 +423,7 @@ section {
     background-color: #3358D4;
 }
 #contact-details {
-    width: calc(50% - 10px); /* Calculez la largeur en fonction de la moitié de la largeur disponible et de l'espacement */
+    width: calc(50% - 10px); /* Calculez la largeur en fonction de la moitié de largeur disponible et de l'espacement */
     padding: 20px;
     border-radius: 10px;
     background-color: #F7F9FF;
